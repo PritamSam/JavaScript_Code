@@ -41,7 +41,11 @@ while (z1!=-1)
     z1=newDay.indexOf('day',z1+1)
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 console.log(count)
 =======
 console.log(count)
 >>>>>>> 4652a247fd19c720484ecf9b3395e3fdb585c6f2
+=======
+console.log(count)
+>>>>>>> master

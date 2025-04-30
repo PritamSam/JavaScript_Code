@@ -9,7 +9,11 @@ console.log(c)
 console.log(d)
 console.log(e)
 <<<<<<< HEAD
+<<<<<<< HEAD
 console.log(f)
 =======
 console.log(f)
 >>>>>>> 4652a247fd19c720484ecf9b3395e3fdb585c6f2
+=======
+console.log(f)
+>>>>>>> master
