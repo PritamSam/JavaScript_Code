@@ -25,4 +25,8 @@ console.log("Hello Pritam")
   */
 
   // Note - "!" operator can only be used in boolean data type to reverse the value
+<<<<<<< HEAD
   console.log(!d) // oputut - false
+=======
+  console.log(!d) // oputut - false
+>>>>>>> 4652a247fd19c720484ecf9b3395e3fdb585c6f2

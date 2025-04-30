@@ -6,4 +6,8 @@ let person = {
 }
 
 console.log(person.firstname)
+<<<<<<< HEAD
 console.log(person.lastname)
+=======
+console.log(person.lastname)
+>>>>>>> 4652a247fd19c720484ecf9b3395e3fdb585c6f2
