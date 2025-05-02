@@ -78,13 +78,3 @@ var1.sort(function(a,b){
 }) */
 
 // Above progam written in recursive function
-<<<<<<< HEAD
-<<<<<<< HEAD
-console.log(var1.sort((a,b)=>a-b))
-=======
-console.log(var1.sort((a,b)=>a-b))
->>>>>>> 4652a247fd19c720484ecf9b3395e3fdb585c6f2
-=======
-console.log(var1.sort((a,b)=>a-b))
-
->>>>>>> master
