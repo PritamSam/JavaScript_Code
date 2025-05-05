@@ -31,12 +31,10 @@ console.log(sum1(4,4))
 //Type 2 -
 let sum2 = (c,d)=>c+d
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 console.log(sum2(2,3)) 
-=======
+
 console.log(sum2(2,3)) 
->>>>>>> 4652a247fd19c720484ecf9b3395e3fdb585c6f2
-=======
+
 console.log(sum2(2,3)) 
->>>>>>> master
+
